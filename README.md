@@ -5,6 +5,8 @@
 <br>
 <p1>
    I'm Navi, a passionate software developer. I thrive on solving challenging problems and creating meaningful solutions through code.
+</p1>
+<p1>  
    - 🔭I’m currently a student in Software Engineering.
 </p1>
 
