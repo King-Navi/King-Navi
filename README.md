@@ -10,8 +10,11 @@
    I’m currently a student in Software Engineering.
 </p1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=King-Navi&theme=midnight-purple&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=King-Navi&theme=midnight-purple&hide_border=true&border_radius=6" alt="GitHub Streak">
+  </a>
+</p>
 <!--
 **King-Navi/King-Navi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
